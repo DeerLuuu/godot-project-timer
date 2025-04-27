@@ -9,6 +9,8 @@ export_credentials.cfg
 # Imported translations (automatically generated from CSV files)
 *.translation
 
+addons/deers_time_plugin/time_save.tres
+
 # Mono-specific ignores
 .mono/
 data_*/
